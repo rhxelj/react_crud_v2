@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "name": "PCxxxx",
+      "price": "100",
+      "id": 3
+    },
+    {
+      "name": "xcommmmmm",
+      "price": "300",
+      "id": 6
+    },
+    {
+      "name": "ahora andacdsacdc",
+      "price": "3000",
+      "id": 8
+    },
+    {
+      "name": "Linux modificadozxzx",
+      "price": "3000",
+      "id": 9
+    },
+    {
+      "name": "PC",
+      "price": "3000",
+      "id": 10
+    },
+    {
+      "name": "PC",
+      "price": "30",
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "name": "producto nuevo",
+      "price": "caro",
+      "id": 16
+    },
+    {
+      "name": "nuevo en lo de sandra",
+      "price": "10",
+      "id": 17
+    },
+    {
+      "name": "nuevo en mayo",
+      "price": "120",
+      "id": 18
+    }
+  ]
+}
